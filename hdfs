@@ -1,0 +1,2 @@
+hadoop fs -ls <path>
+hadoop fs -put <srcPath> <destPath>
